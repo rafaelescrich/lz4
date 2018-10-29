@@ -1,4 +1,4 @@
-[![godoc](https://godoc.org/github.com/pierrec/lz4?status.png)](https://godoc.org/github.com/pierrec/lz4)
+[![godoc](https://godoc.org/github.com/rafaelescrich/lz4?status.png)](https://godoc.org/github.com/rafaelescrich/lz4)
 
 # lz4
 LZ4 compression and decompression in pure Go.
@@ -6,7 +6,7 @@ LZ4 compression and decompression in pure Go.
 ## Usage
 
 ```go
-import "github.com/pierrec/lz4"
+import "github.com/rafaelescrich/lz4"
 ```
 
 ## Description
